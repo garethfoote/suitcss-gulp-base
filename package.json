@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Build workflow (using gulp) for including suitcss components in your css. Uses rework+plugins and autoprefixer",
   "main": "",
-  "author": "",
+  "author": "Gareth Foote",
   "license": "LGPL-3.0+",
   "repository": {
     "type": "git",
